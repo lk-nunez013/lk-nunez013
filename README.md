@@ -1,4 +1,4 @@
-## Hi 👋, my name is Lucas, here are some fun facts about me =)##
+## Hi 👋, my name is Lucas, here are some fun facts about me =) ##
 
 - 🔭 I’m currently working on [Ishaoc](https://ishaoc.org.br)
 - 🌱 I’m currently learning on [EBAC](https://ebaconline.com.br)
